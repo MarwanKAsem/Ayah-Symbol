@@ -36,16 +36,18 @@ Python 3.6+
 
 No external dependencies required
 
+
 📂 Project Structure
-bash
-Copy
-Edit
+
 ayah_symbol/
 │
-├── ayah_symbol.py        # Main script
-├── README.md             # Project documentation
+├── ayah_symbol.py        
+├── README.md             
+
+
 📜 License
 This project is licensed under the MIT License.
+
 
 🙌 Contribution
 Feel free to fork the repo, suggest features, or submit pull requests!
