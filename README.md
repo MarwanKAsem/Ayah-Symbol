@@ -38,9 +38,8 @@ No external dependencies required
 
 
 📂 Project Structure
-│
-├── ayah_symbol.py        
 
+├── ayah_symbol.py        
 ├── README.md             
 
 
